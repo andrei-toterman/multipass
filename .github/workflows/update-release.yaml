@@ -4,6 +4,7 @@ on:
     types:
       - published
       - edited
+
 jobs:
   dispatch-to-website-repo:
     name: Dispatch update event to website repository
